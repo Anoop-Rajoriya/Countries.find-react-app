@@ -8,20 +8,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # My project details
+# Content of table
+- project name
+- project live link
+- Author
 
-## Color codes:
-
-- --light-background: #E3E4E8;
-- --dark-background: #353C47;
-
-- --light-primary: #FFFFFF;
-- --dark-primary: #535B71;
-
-- --light-accent1: #222222;
-- --dark-accent1: ##FFFFFF;
-
-- --light-accent2: #455A63;
-- --dark-accent2: #AFBEC4;
-
-- --interactive: #036EBE;
-- --inline-error: #C00400;
+## Countries.find webapp
+## [Project live link](https://66647d90fd81e4f802d770eb--animated-pastelito-b6d5e4.netlify.app/)
+## [Autor](https://www.linkedin.com/in/anoop-rajoriya-370001232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&original_referer=https%3A%2F%2F66647d90fd81e4f802d770eb--animated-pastelito-b6d5e4.netlify.app%2F)
